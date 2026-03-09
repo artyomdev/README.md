@@ -17,8 +17,7 @@ Production-style Retrieval-Augmented Generation backend for question answering o
 - Docker / Docker Compose deployment
 
 Repository:  
-https://github.com/artemdev/rag-assistant
-
+https://github.com/artyomdev/rag-assistant
 ## Tech
 
 Python • FastAPI • RAG systems • Vector search • Qdrant • LLM integration • Docker • Linux
