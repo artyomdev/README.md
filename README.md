@@ -77,3 +77,8 @@ Docker • Docker Compose • Linux
 
 Remote **Python Backend Engineer** roles  
 Remote **AI Backend / LLM Engineer** roles
+
+# Contacts
+
+artyom.babusenko.dev@gmail.com
+
