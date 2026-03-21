@@ -1,84 +1,50 @@
 # Artem Babusenko
 
-Python Backend Engineer focused on **AI systems, LLM applications, and backend infrastructure**.
+AI Infrastructure / Backend Engineer building production LLM systems.
 
-I build production-style backend services and AI pipelines, with a focus on **Retrieval-Augmented Generation (RAG)** and scalable API systems.
-
-Currently working on AI backend systems using **FastAPI, vector search, and local LLM inference**.
-
-Open to **remote Python backend / AI backend roles**.
+I design and operate scalable AI systems end-to-end — from architecture to deployment and production support.
 
 ---
 
-# Key Skills
+## Focus Areas
 
-**Backend**
-
-Python • FastAPI • REST APIs • Backend Architecture
-
-**AI / LLM**
-
-Retrieval-Augmented Generation (RAG) • LLM integration • Vector search • embeddings
-
-**Infrastructure**
-
-Docker • Docker Compose • Linux • Git
+- LLM systems and RAG pipelines  
+- GPU-based local inference  
+- Document processing pipelines  
+- Scalable backend systems (Python, FastAPI)
 
 ---
 
-# Main Project
+## Featured Project
 
-## RAG Assistant
+### Production RAG System  
+End-to-end RAG backend with retrieval, reranking, and local LLM inference.
 
-Production-style Retrieval-Augmented Generation backend for question answering over document knowledge bases.
-
-Repository  
-https://github.com/artyomdev/rag-assistant
-
-### Features
-
-• FastAPI backend API  
-• vector search using Qdrant  
-• local LLM inference via Ollama  
-• embeddings and reranking pipeline using PyTorch / sentence-transformers  
-• Docker / Docker Compose deployment  
-• document ingestion pipeline for knowledge base construction  
-• evaluation pipeline for automated answer testing
+→ https://github.com/artyomdev/rag-assistant
 
 ---
 
-# System Architecture
+## Tech Stack
 
-Typical RAG pipeline used in the project:
-
-documents → chunking → embeddings → vector search → reranking → LLM answer generation
-
-The system combines vector retrieval with local LLM inference to provide contextual answers over internal documentation.
+Python • FastAPI • Docker • Qdrant • PyTorch • Transformers  
+LLM Inference • RAG • Embeddings • Vector Search • Linux
 
 ---
 
-# Tech Stack
+## Currently
 
-**Backend**
-
-Python • FastAPI • REST APIs
-
-**AI / ML**
-
-RAG systems • Vector search • embeddings • PyTorch • sentence-transformers • Ollama
-
-**Infrastructure**
-
-Docker • Docker Compose • Linux
+Building production-ready AI systems focused on performance and reliability.
 
 ---
 
-# Open to
+## Open to
 
-Remote **Python Backend Engineer** roles  
-Remote **AI Backend / LLM Engineer** roles
+Remote AI / LLM / Backend Engineer roles  
+(Open to international opportunities)
 
-# Contacts
+---
+
+## Contact
 
 artyom.babusenko.dev@gmail.com
 
